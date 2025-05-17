@@ -38,7 +38,7 @@ html {
 .header__menu {
   display: flex;
   justify-content: space-evenly;
-  text-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .menu__list {
